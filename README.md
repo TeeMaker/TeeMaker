@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TeeMaker
+- 👀 I’m interested in golang, webdesign, buisness informatics, python, databases, fun sideprojects
+- 🌱 I’m currently learning in high school
+- 📫 How to reach me, through email: kolosmatyas@gmail.com
